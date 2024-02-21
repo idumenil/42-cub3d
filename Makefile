@@ -19,7 +19,7 @@ NAME = cub3D
 
 MLX_DIR = mlx
 MLX = libmlx.a 
-CC = clang
+CC = gcc
 
 CFLAGS = -Wall -Wextra -Werror -g
 
