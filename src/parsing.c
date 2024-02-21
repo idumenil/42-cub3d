@@ -84,5 +84,5 @@ int	main(int argc, char **argv)
 		ft_cub(argv[1], &r);
 	}
 	else
-		write(1, "Error\nArguments invalides\n", 30);
+		write(1, "Error\nArguments invalides\n", 27);
 }
